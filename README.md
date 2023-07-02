@@ -7,4 +7,4 @@
 
 效果预览如下图
 
-![show](img\show.png)
+![show](img/show.png)
